@@ -1,2 +1,10 @@
 1. Decide which business to order from
 2. Decide which type of pizza to order
+3. Decide on the appetizers
+4. Decide on the drinks.
+5. Decide on the order being delivered or picked up in store
+6. Calculate the total cost
+	6a User inserts a coupon -> Recalculate total cost
+	6b Calculate total cost with coupon discount, taxes, and fees.
+7. User insert payment information.
+8. Output receipt and order confirmation number.
